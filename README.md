@@ -62,3 +62,14 @@ Run the following command on the terminal with desired `<port_number>`
 flask run -p <port_number>
 
 ```
+
+---
+
+### Demo of Testing using Postman
+
+The testing of the endpoints is done using postman. The sample video can be found at the below links:
+
+[Testing 1 - using postman](https://drive.google.com/file/d/1HmDGSkW8xNMbl5bx6DUzqalHCuyjR_29/view?usp=sharing)
+
+[Testing 2 - using postman](https://drive.google.com/file/d/1EpN41Y8u2ptGSGoU3xlB6CwFGNrW_nK2/view?usp=sharing)
+
